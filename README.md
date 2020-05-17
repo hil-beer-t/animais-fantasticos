@@ -1,6 +1,6 @@
 # Animais Fantásticos
 
-Simple Pure HTML/CSS Static Page using JavaScript events without JQuery.
+Simple Pure HTML/CSS Static Page using JavaScript without JQuery.
 
 ![animais-fantasticos](https://user-images.githubusercontent.com/52302576/82131790-6bb02b80-97af-11ea-869f-a15ce1fa9825.png)
 
